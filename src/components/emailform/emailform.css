@@ -1,0 +1,130 @@
+.emailform {
+    
+   
+}
+
+.emailform__content {
+    
+    background-color: #edcf49;
+
+    display: flex;
+    padding-left:15%;
+    padding-right:15%;
+    
+
+}
+
+.emailform__img{
+
+max-height:968px;
+
+}
+
+
+.emailform__text {
+   
+    padding-top:10%;
+    padding-bottom:10%;
+    
+    
+
+    
+    
+    
+    
+    line-height: 1.25;
+    
+}
+
+
+.emailform__title  {
+    font-weight: 900;
+    font-size: 45px;
+    color:white;
+    text-align: center;
+}
+
+
+
+.emailform__desc {
+    margin-top:10%;
+    font-weight: 400;
+    font-size: 25px;
+    color:white;
+    text-align: center;
+}
+   
+
+    
+    
+
+
+
+
+
+.emailform__btn-wrapper {
+
+    display: flex;
+    column-gap: 34px;
+    align-items:center;
+
+
+}
+
+
+.emailform__btn {
+
+    margin-top:10%;
+    padding: 18px 40px;
+    background: #000000;
+    border-radius: 10px;
+    font-weight:500;
+    font-size:25px;
+    line-height: 1.5;
+    letter-spacing: -0.05em;
+    color: #fff;
+
+}
+
+
+.highlight {
+position: relative;
+display: inline-block;
+
+}
+
+.highlight span {
+
+    position:relative;
+    z-index: 1;
+}
+
+  
+
+
+  #submitButton {
+    margin-top:10%;
+    padding: 18px 40px;
+    background: #000000;
+    border-radius: 10px;
+    font-weight:500;
+    font-size:25px;
+    line-height: 1.5;
+    letter-spacing: -0.05em;
+    color: #fff;
+    margin-left: 30px;
+
+
+}
+
+#emailform__form{
+    background: white;
+    color: black;
+    padding: 21px 160px 21px 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-left:10%;
+
+
+
+}
